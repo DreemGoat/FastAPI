@@ -12,12 +12,12 @@ app = FastAPI()
 
 tasks ={
     1:{
-        "name":"Daniel",
-        "description":"L4AC"
+        "name":"Feed the goat",
+        "description":"The goat is hungry"
     },
     2:{
-        "name":"Eric",
-        "description":"L4BC"
+        "name":"Water the plants",
+        "description":"The plants need water"
     }
 }
 
